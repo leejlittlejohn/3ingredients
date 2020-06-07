@@ -92,6 +92,3 @@ The next steps towards sharing this project with the average user consist of con
 [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://www.aclweb.org/anthology/N15-1015.pdf)
 
 Rounak Banik, "Hands-On Recommendation Systems with Python" 2020 Oreilly Media
-
-
-## Most Influential and Divisive Words 'salt', 'sugar', 'oil', 'pepper', 'butter', 'flour', 'garlic', 'onion', 'cheese', 'water'
