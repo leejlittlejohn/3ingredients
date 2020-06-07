@@ -1,9 +1,10 @@
-# Knowledge-Based Recipe Recommender System
-## Lee Littlejohn
-#### June 6, 2020
+# 3ingredients
+## Knowledge-Based Recipe Recommender System
+### Lee Littlejohn
+##### June 6, 2020
 ---
 
-## Overview
+### Overview
 
 Now more than ever, people are eating at home. Home cooking can become monotonous, and sometimes food can spoil because we just don't know what to do with it. This system aims to provide inspiration and ideas for how to use up what you already have. Choice paralysis and apathy for cooking dinner _again_ can be detrimental to flavor and meal enjoyment. With the right suggestions, cooking dinner can be less wasteful and more interesting.
 
